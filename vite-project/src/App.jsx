@@ -2,7 +2,7 @@ import "./App.css";
 import Paragraph from "./components/Paragraph";
 
 function App() {
-	const nameApp = "Horia";
+	const nameApp = "Horia1";
 	const dateApp = "1990-01-01";
 	const countryApp = "Romania";
 	return (
